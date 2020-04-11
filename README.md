@@ -1,3 +1,4 @@
 # Testando branch no Git
 
-Add Branch Master
+Testes com módelo Git-Flow, **usandando merge fast forward**
+
